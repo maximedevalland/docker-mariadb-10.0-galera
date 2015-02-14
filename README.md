@@ -3,7 +3,6 @@ Multi Master Replication using MariaDB 10.0 and Galera inside Docker.
 
 Requires at least 3 nodes.
 
-This setup requires 3 hosts. 
 Let's say server1, server2, server3. You will have 2 data containers (data+config) and 1 container running MariaDB and Galera on each hosts.
 
 # 1 - Config and data containers
